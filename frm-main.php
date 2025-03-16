@@ -11,6 +11,7 @@
   </head>
 
   <body>
+    <h1>Hello php</h1>
     <div class="bar1">
       <ul>
         <li class="btn-menu">
